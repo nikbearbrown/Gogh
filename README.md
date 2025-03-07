@@ -1,2 +1,2 @@
 # Gogh
-Gogh
+Gogh - Procedural Data Visualization
